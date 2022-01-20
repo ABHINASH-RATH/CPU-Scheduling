@@ -333,7 +333,7 @@ void round_robin()
 	//Gantt Chart
 	printf("\n");
 	printf("          GANTT CHART          ");
-	printf("\n          ***********          ");
+	printf("\n      ---------------        ");
 	printf("\n0");
 	for(time=0,i=0;remain!=0;)
 	{
